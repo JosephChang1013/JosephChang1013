@@ -1,6 +1,6 @@
 <h1 align="center" >Hi there, I'm Joseph Chang 🐐 </h1>
 
-<h3 align="center"> I'm junior backend developer with Python<img src="https://user-images.githubusercontent.com/98369328/213108011-460f0563-28dc-4488-b9b8-54642bbff621.png" style="zoom: 5%;"> <br><br> hava nice day 👍 </h3>
+<h3 align="center"> I'm a junior backend developer with Python<img src="https://user-images.githubusercontent.com/98369328/213108011-460f0563-28dc-4488-b9b8-54642bbff621.png" style="zoom: 5%;"> <br><br> hava nice day 👍 </h3>
 
 
 
