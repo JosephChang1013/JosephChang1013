@@ -1,6 +1,6 @@
-# Hi there, I'm Joseph Chang 🐐
+<h1 align="center" >Hi there, I'm Joseph Chang 🐐 </h1>
 
-## I'm junior backend developer with Python <br><br> hava nice day 
+<h3 align="center"> I'm junior backend developer with Python <br><br> hava nice day 👍 </h3>
 
 
 
