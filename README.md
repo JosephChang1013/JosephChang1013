@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Joseph Chang 👋
+--------------------------------------
+#### I'm junior backend developer with Python
+
+
+
+
+
+
+
+
 
 <!--
 **JosephChang1013/JosephChang1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
