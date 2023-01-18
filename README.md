@@ -1,7 +1,8 @@
-# Hi there, I'm Joseph Chang 👋
---------------------------------------
+# Hi there, I'm Joseph Chang 🐐
+
 ## I'm junior backend developer with Python
 
+## hava nice day !
 
 
 
